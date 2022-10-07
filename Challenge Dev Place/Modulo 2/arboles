@@ -1,0 +1,20 @@
+1.	 A.
+2.	ABFG , BFGH ,ACJK,CJKL,CJKM,AENP,AENQ (7)
+3.	No
+4.	ACJ.
+5.	A y E.
+6.	No tiene.
+7.	HILMDPQ.
+8.	Altura 3.
+9.	Altura de 4.
+10.	Profundidad 1.
+11.	E.
+12.	No es hermano
+13.	Si.
+14.	No, es un nodo descendiente
+15.	A la izquierda BFGHCI, derecha: DENPQ.
+16.	BCDE.
+17.	
+o	Preorden: ABFGHCIJKLMDENPQ.
+o	Postorden: HGFBILMKJCDPQNEA.
+o	Inorden: HGFBAICLKMJDPNQE.
